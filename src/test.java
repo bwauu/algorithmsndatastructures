@@ -35,4 +35,17 @@ public class test {
 
         return sum;
     }
+    public long multiplySome(List<Integer> numberList) {
+
+
+
+        long sum = 0;
+        for(int index = 0; index < (numberList.size() / 2); index++) {
+            sum = sum + (numberList.get(index) * numberList.get(numberList.size() - index - 1));
+        }
+        ;
+        //TODO: Add implementation
+
+        return sum;
+    }
 }

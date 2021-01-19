@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c808d64e-2f25-42a0-bd9d-52b90a563d14" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Laboration1Algo/multiply/AlgoMultiply.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/multiply/AlgoMultiply.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Laboration1Algo/multiply/AlgoMultiplySmallSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/multiply/AlgoMultiplySmallSize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Laboration1Algo/multiply/Multiplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/multiply/Multiplier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Laboration1Algo/util/NumberCreator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/util/NumberCreator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Laboration1Algo/util/StopWatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/util/StopWatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/algo/multiply/Multiplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/multiply/Multiplier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,9 +43,22 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
   </component>
-  <component name="RunManager" selected="Application.AlgoMultiply">
+  <component name="RunManager" selected="Application.AlgoMultiplySmallSize">
     <configuration name="AlgoMultiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algo.multiply.AlgoMultiply" />
+      <module name="Algo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algo.multiply.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlgoMultiplySmallSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.multiply.AlgoMultiplySmallSize" />
       <module name="Algo" />
       <extension name="coverage">
         <pattern>
@@ -81,6 +90,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AlgoMultiplySmallSize" />
         <item itemvalue="Application.AlgoMultiply" />
         <item itemvalue="Application.test" />
       </list>
@@ -96,7 +106,7 @@
       <updated>1611054247857</updated>
       <workItem from="1611054248985" duration="471000" />
       <workItem from="1611065442628" duration="1469000" />
-      <workItem from="1611066936675" duration="11352000" />
+      <workItem from="1611066936675" duration="12132000" />
     </task>
     <task id="LOCAL−00001" summary="AlgoMaterial Added">
       <created>1611065713168</created>
@@ -104,7 +114,13 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1611065713168</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="Andra algorithm klar">
+      <created>1611083126223</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1611083126223</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -113,49 +129,54 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="AlgoMaterial Added" />
-    <option name="LAST_COMMIT_MESSAGE" value="AlgoMaterial Added" />
+    <MESSAGE value="Andra algorithm klar" />
+    <option name="LAST_COMMIT_MESSAGE" value="Andra algorithm klar" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="139" key="#Inspections" timestamp="1611076708500">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state x="395" y="139" key="#Inspections/0.0.1536.920@0.0.1536.920" timestamp="1611076708500" />
-    <state x="778" y="27" key="CommitChangelistDialog2" timestamp="1611065712053">
+    <state x="524" y="162" key="#xdebugger.evaluate" timestamp="1611083678770">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state x="778" y="27" key="CommitChangelistDialog2/0.0.1536.920@0.0.1536.920" timestamp="1611065712053" />
-    <state width="723" height="234" key="GridCell.Tab.0.bottom" timestamp="1611082910247">
+    <state x="524" y="162" key="#xdebugger.evaluate/0.0.1536.920@0.0.1536.920" timestamp="1611083678770" />
+    <state x="675" y="27" key="CommitChangelistDialog2" timestamp="1611083125568">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="723" height="234" key="GridCell.Tab.0.bottom/0.0.1536.920@0.0.1536.920" timestamp="1611082910247" />
-    <state width="723" height="234" key="GridCell.Tab.0.center" timestamp="1611082910247">
+    <state x="675" y="27" key="CommitChangelistDialog2/0.0.1536.920@0.0.1536.920" timestamp="1611083125568" />
+    <state width="1493" height="299" key="GridCell.Tab.0.bottom" timestamp="1611083702415">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="723" height="234" key="GridCell.Tab.0.center/0.0.1536.920@0.0.1536.920" timestamp="1611082910247" />
-    <state width="723" height="234" key="GridCell.Tab.0.left" timestamp="1611082910246">
+    <state width="1493" height="299" key="GridCell.Tab.0.bottom/0.0.1536.920@0.0.1536.920" timestamp="1611083702415" />
+    <state width="1493" height="299" key="GridCell.Tab.0.center" timestamp="1611083702415">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="723" height="234" key="GridCell.Tab.0.left/0.0.1536.920@0.0.1536.920" timestamp="1611082910246" />
-    <state width="723" height="234" key="GridCell.Tab.0.right" timestamp="1611082910247">
+    <state width="1493" height="299" key="GridCell.Tab.0.center/0.0.1536.920@0.0.1536.920" timestamp="1611083702415" />
+    <state width="1493" height="299" key="GridCell.Tab.0.left" timestamp="1611083702415">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="723" height="234" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1611082910247" />
-    <state width="1493" height="299" key="GridCell.Tab.1.bottom" timestamp="1611082286849">
+    <state width="1493" height="299" key="GridCell.Tab.0.left/0.0.1536.920@0.0.1536.920" timestamp="1611083702415" />
+    <state width="1493" height="299" key="GridCell.Tab.0.right" timestamp="1611083702415">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="1493" height="299" key="GridCell.Tab.1.bottom/0.0.1536.920@0.0.1536.920" timestamp="1611082286849" />
-    <state width="1493" height="299" key="GridCell.Tab.1.center" timestamp="1611082286849">
+    <state width="1493" height="299" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1611083702415" />
+    <state width="0" height="0" key="GridCell.Tab.1.bottom" timestamp="1611083702380">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="1493" height="299" key="GridCell.Tab.1.center/0.0.1536.920@0.0.1536.920" timestamp="1611082286849" />
-    <state width="1493" height="299" key="GridCell.Tab.1.left" timestamp="1611082286849">
+    <state width="0" height="0" key="GridCell.Tab.1.bottom/0.0.1536.920@0.0.1536.920" timestamp="1611083702380" />
+    <state width="0" height="0" key="GridCell.Tab.1.center" timestamp="1611083702379">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="1493" height="299" key="GridCell.Tab.1.left/0.0.1536.920@0.0.1536.920" timestamp="1611082286849" />
-    <state width="1493" height="299" key="GridCell.Tab.1.right" timestamp="1611082286849">
+    <state width="0" height="0" key="GridCell.Tab.1.center/0.0.1536.920@0.0.1536.920" timestamp="1611083702379" />
+    <state width="0" height="0" key="GridCell.Tab.1.left" timestamp="1611083702379">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="1493" height="299" key="GridCell.Tab.1.right/0.0.1536.920@0.0.1536.920" timestamp="1611082286849" />
+    <state width="0" height="0" key="GridCell.Tab.1.left/0.0.1536.920@0.0.1536.920" timestamp="1611083702379" />
+    <state width="0" height="0" key="GridCell.Tab.1.right" timestamp="1611083702379">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="0" height="0" key="GridCell.Tab.1.right/0.0.1536.920@0.0.1536.920" timestamp="1611083702379" />
     <state x="518" y="122" width="814" height="524" key="Vcs.Push.Dialog.v2" timestamp="1611065726026">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
@@ -164,10 +185,10 @@
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state x="971" y="373" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.920@0.0.1536.920" timestamp="1611054607234" />
-    <state x="883" y="223" key="extract.method.dialog" timestamp="1611082567880">
+    <state x="883" y="223" key="extract.method.dialog" timestamp="1611083211236">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state x="883" y="223" key="extract.method.dialog/0.0.1536.920@0.0.1536.920" timestamp="1611082567880" />
+    <state x="883" y="223" key="extract.method.dialog/0.0.1536.920@0.0.1536.920" timestamp="1611083211236" />
     <state x="862" y="58" width="580" height="804" key="find.popup" timestamp="1611065617434">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
@@ -181,14 +202,9 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test.java</url>
-          <line>29</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test.java</url>
-          <line>28</line>
-          <option name="timeStamp" value="42" />
+          <url>file://$PROJECT_DIR$/src/algo/multiply/AlgoMultiplySmallSize.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="46" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
