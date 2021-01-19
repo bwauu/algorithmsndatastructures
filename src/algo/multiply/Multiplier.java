@@ -1,12 +1,14 @@
 package algo.multiply;
 
+import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
 
 /**
  * Handles multiplication of Integers.
  */
 public class Multiplier {
-	
+
 	/**
 	 * Construct a Multiplier.
 	 */
@@ -21,11 +23,16 @@ public class Multiplier {
 	 * @return the sum
 	 */
 	public long multiplySome(List<Integer> numberList) {
-		
-		long sum = 0;
 
+
+
+		long sum = 0;
+		for(int index = 0; index < (numberList.size() / 2); index++) {
+			sum = sum + (numberList.get(index) * numberList.get(numberList.size() - index - 1));
+		}
+		;
 		//TODO: Add implementation
-			
+
 		return sum;		
 	}	
 	/**
@@ -38,8 +45,13 @@ public class Multiplier {
 	public long multiplyAll(List<Integer> numberList) {
 		long sum = 0;
 
+
 		//TODO: Add implementation
-		
+		for (int i = 0; i < numberList.size() - 1; i++) {
+			for (int j = i+1; j < numberList.size(); j++) {
+				sum += numberList.get(i).longValue() * numberList.get(j).longValue();
+			}
+		}
 		return sum;		
 	}
 }

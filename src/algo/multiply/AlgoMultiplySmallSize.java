@@ -82,10 +82,6 @@ public class AlgoMultiplySmallSize {
 		numberOfElements = new int[] { 5000, 10000, 15000 };
 		correctSums = new int[] { 30000, 60000, 90000 };
 
-		for(int i = 0; i < numberOfElements.length; i ++) {
-			dataStructure = new LinkedList<>(NumberCreator.createNumberList(numberOfElements[i], 0, 9, false));
-			sum = test.multiplySome(dataStructure);
-			System.out.println("Multiply some with " + numberOfElements[i] + " elements in LinkedList. Sum: " + sum + " Correct: " + (sum == correctSums[i]));
-		}
+
 	}
 }
