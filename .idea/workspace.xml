@@ -1,10 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c808d64e-2f25-42a0-bd9d-52b90a563d14" name="Default Changelist" comment="">
+    <list default="true" id="c808d64e-2f25-42a0-bd9d-52b90a563d14" name="Default Changelist" comment="L1 klar">
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MikeDane/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Morfar/ProgramCreek.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Morfar/Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Morfar/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Morfar/bucky.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Morfar/guessNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Morfar/ida.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyFirstWebsiteNot/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MyFirstWebsiteNot/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/algo/multiply/Multiplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/multiply/Multiplier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MikeDane/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uppsala123/src/A5/FileDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../uppsala123/src/A5/FileDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uppsala123/src/A5/MovieDatabaseUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../uppsala123/src/A5/MovieDatabaseUI.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,24 +52,13 @@
   <component name="PropertiesComponent">
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Application.AlgoMultiplySmallSize">
-    <configuration name="AlgoMultiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algo.multiply.AlgoMultiply" />
-      <module name="Algo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="algo.multiply.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="AlgoMultiplySmallSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="algo.multiply.AlgoMultiplySmallSize" />
       <module name="Algo" />
@@ -70,31 +72,58 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="test" />
+    <configuration name="AlgoMultiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.multiply.AlgoMultiply" />
       <module name="Algo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="algo.multiply.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MikeDane.App" />
+      <module name="Algo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MikeDane.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.AlgoMultiplySmallSize" />
-        <item itemvalue="Application.AlgoMultiply" />
-        <item itemvalue="Application.test" />
-      </list>
-    </recent_temporary>
+    <configuration name="ProgramCreek" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Morfar.ProgramCreek" />
+      <module name="Algo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Morfar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="bucky" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Morfar.bucky" />
+      <module name="Algo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Morfar.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -106,7 +135,29 @@
       <updated>1611054247857</updated>
       <workItem from="1611054248985" duration="471000" />
       <workItem from="1611065442628" duration="1469000" />
-      <workItem from="1611066936675" duration="12132000" />
+      <workItem from="1611066936675" duration="12315000" />
+      <workItem from="1611084309726" duration="2168000" />
+      <workItem from="1611131795815" duration="211000" />
+      <workItem from="1611144493672" duration="1851000" />
+      <workItem from="1611146363448" duration="650000" />
+      <workItem from="1611161472244" duration="3000" />
+      <workItem from="1611165753086" duration="1614000" />
+      <workItem from="1611235138867" duration="1207000" />
+      <workItem from="1611336631252" duration="664000" />
+      <workItem from="1611502473956" duration="1813000" />
+      <workItem from="1611577456551" duration="6345000" />
+      <workItem from="1611647779260" duration="4276000" />
+      <workItem from="1611660716866" duration="598000" />
+      <workItem from="1611680345773" duration="3000" />
+      <workItem from="1611745509138" duration="3762000" />
+      <workItem from="1611832572695" duration="599000" />
+      <workItem from="1611855057664" duration="2000" />
+      <workItem from="1611864071863" duration="95000" />
+      <workItem from="1611864193979" duration="3000" />
+      <workItem from="1611905021186" duration="2000" />
+      <workItem from="1611929710618" duration="1198000" />
+      <workItem from="1612021221875" duration="1233000" />
+      <workItem from="1612040769933" duration="863000" />
     </task>
     <task id="LOCAL−00001" summary="AlgoMaterial Added">
       <created>1611065713168</created>
@@ -120,7 +171,13 @@
       <option name="presentableId" value="LOCAL−00002" />
       <updated>1611083126223</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL−00003" summary="L1 klar">
+      <created>1611084077333</created>
+      <option name="number" value="LOCAL−00003" />
+      <option name="presentableId" value="LOCAL−00003" />
+      <updated>1611084077333</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -130,7 +187,8 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="AlgoMaterial Added" />
     <MESSAGE value="Andra algorithm klar" />
-    <option name="LAST_COMMIT_MESSAGE" value="Andra algorithm klar" />
+    <MESSAGE value="L1 klar" />
+    <option name="LAST_COMMIT_MESSAGE" value="L1 klar" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="139" key="#Inspections" timestamp="1611076708500">
@@ -141,42 +199,42 @@
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state x="524" y="162" key="#xdebugger.evaluate/0.0.1536.920@0.0.1536.920" timestamp="1611083678770" />
-    <state x="675" y="27" key="CommitChangelistDialog2" timestamp="1611083125568">
+    <state x="675" y="27" key="CommitChangelistDialog2" timestamp="1611086478613">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state x="675" y="27" key="CommitChangelistDialog2/0.0.1536.920@0.0.1536.920" timestamp="1611083125568" />
-    <state width="1493" height="299" key="GridCell.Tab.0.bottom" timestamp="1611083702415">
+    <state x="675" y="27" key="CommitChangelistDialog2/0.0.1536.920@0.0.1536.920" timestamp="1611086478613" />
+    <state width="708" height="2" key="GridCell.Tab.0.bottom" timestamp="1611832559747">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="1493" height="299" key="GridCell.Tab.0.bottom/0.0.1536.920@0.0.1536.920" timestamp="1611083702415" />
-    <state width="1493" height="299" key="GridCell.Tab.0.center" timestamp="1611083702415">
+    <state width="708" height="2" key="GridCell.Tab.0.bottom/0.0.1536.920@0.0.1536.920" timestamp="1611832559747" />
+    <state width="708" height="2" key="GridCell.Tab.0.center" timestamp="1611832559747">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="1493" height="299" key="GridCell.Tab.0.center/0.0.1536.920@0.0.1536.920" timestamp="1611083702415" />
-    <state width="1493" height="299" key="GridCell.Tab.0.left" timestamp="1611083702415">
+    <state width="708" height="2" key="GridCell.Tab.0.center/0.0.1536.920@0.0.1536.920" timestamp="1611832559747" />
+    <state width="708" height="2" key="GridCell.Tab.0.left" timestamp="1611832559747">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="1493" height="299" key="GridCell.Tab.0.left/0.0.1536.920@0.0.1536.920" timestamp="1611083702415" />
-    <state width="1493" height="299" key="GridCell.Tab.0.right" timestamp="1611083702415">
+    <state width="708" height="2" key="GridCell.Tab.0.left/0.0.1536.920@0.0.1536.920" timestamp="1611832559747" />
+    <state width="708" height="2" key="GridCell.Tab.0.right" timestamp="1611832559747">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="1493" height="299" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1611083702415" />
-    <state width="0" height="0" key="GridCell.Tab.1.bottom" timestamp="1611083702380">
+    <state width="708" height="2" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1611832559747" />
+    <state width="721" height="301" key="GridCell.Tab.1.bottom" timestamp="1611598809596">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="0" height="0" key="GridCell.Tab.1.bottom/0.0.1536.920@0.0.1536.920" timestamp="1611083702380" />
-    <state width="0" height="0" key="GridCell.Tab.1.center" timestamp="1611083702379">
+    <state width="721" height="301" key="GridCell.Tab.1.bottom/0.0.1536.920@0.0.1536.920" timestamp="1611598809596" />
+    <state width="721" height="301" key="GridCell.Tab.1.center" timestamp="1611598809596">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="0" height="0" key="GridCell.Tab.1.center/0.0.1536.920@0.0.1536.920" timestamp="1611083702379" />
-    <state width="0" height="0" key="GridCell.Tab.1.left" timestamp="1611083702379">
+    <state width="721" height="301" key="GridCell.Tab.1.center/0.0.1536.920@0.0.1536.920" timestamp="1611598809596" />
+    <state width="721" height="301" key="GridCell.Tab.1.left" timestamp="1611598809596">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="0" height="0" key="GridCell.Tab.1.left/0.0.1536.920@0.0.1536.920" timestamp="1611083702379" />
-    <state width="0" height="0" key="GridCell.Tab.1.right" timestamp="1611083702379">
+    <state width="721" height="301" key="GridCell.Tab.1.left/0.0.1536.920@0.0.1536.920" timestamp="1611598809596" />
+    <state width="721" height="301" key="GridCell.Tab.1.right" timestamp="1611598809596">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="0" height="0" key="GridCell.Tab.1.right/0.0.1536.920@0.0.1536.920" timestamp="1611083702379" />
+    <state width="721" height="301" key="GridCell.Tab.1.right/0.0.1536.920@0.0.1536.920" timestamp="1611598809596" />
     <state x="518" y="122" width="814" height="524" key="Vcs.Push.Dialog.v2" timestamp="1611065726026">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
@@ -202,9 +260,95 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/algo/multiply/AlgoMultiplySmallSize.java</url>
-          <line>50</line>
-          <option name="timeStamp" value="46" />
+          <url>file://$PROJECT_DIR$/src/Morfar/ida.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Morfar/ida.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Morfar/ida.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Morfar/Recursion.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Morfar/Recursion.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Morfar/Recursion.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Morfar/Recursion.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Morfar/Recursion.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Morfar/Recursion.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Morfar/Recursion.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Morfar/bucky.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Morfar/bucky.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Morfar/bucky.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Morfar/bucky.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Morfar/bucky.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Morfar/Recursion.java</url>
+          <line>6</line>
+          <properties class="Morfar.Recursion" method="Fact">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Morfar/bucky.java</url>
+          <line>8</line>
+          <properties class="Morfar.bucky" method="fact">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
