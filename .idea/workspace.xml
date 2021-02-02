@@ -1,23 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c808d64e-2f25-42a0-bd9d-52b90a563d14" name="Default Changelist" comment="L1 klar">
-      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MikeDane/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Morfar/ProgramCreek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Morfar/Recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Morfar/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Morfar/bucky.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Morfar/guessNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Morfar/ida.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyFirstWebsiteNot/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MyFirstWebsiteNot/style.css" afterDir="false" />
+    <list default="true" id="c808d64e-2f25-42a0-bd9d-52b90a563d14" name="Default Changelist" comment="Some new commits:&#10;1. To do list in Multiplier.java deleted&#10;2. Morfar Package created with a few test/learning classes I've done from yt tutorials&#10;3. MyFirstWebsiteNot package with attempts to create a website - (Systemdevelopment course assignment)">
+      <change afterPath="$PROJECT_DIR$/../JavaFXTest/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXTest/.idea/codeStyles/Project.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXTest/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXTest/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXTest/.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXTest/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXTest/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXTest/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXTest/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXTest/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXTest/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXTest/JavaFXTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaFXTest/out/production/JavaFXTest/sample/sample.fxml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/algo/multiply/Multiplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/algo/multiply/Multiplier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MikeDane/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../uppsala123/src/A5/FileDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../uppsala123/src/A5/FileDatabase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../uppsala123/src/A5/MovieDatabaseUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../uppsala123/src/A5/MovieDatabaseUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Algo/algo/multiply/Multiplier.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Algo/algo/multiply/Multiplier.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Morfar/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Morfar/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MovieSet.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uppsala123/src/A5/Assignment5.java" beforeDir="false" afterPath="$PROJECT_DIR$/../uppsala123/src/InledandeJavaProgrammeringKurs/A5/Assignment5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uppsala123/src/A5/FileDatabase.java" beforeDir="false" afterPath="$PROJECT_DIR$/../uppsala123/src/InledandeJavaProgrammeringKurs/A5/FileDatabase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uppsala123/src/A5/MovieDatabaseUI.java" beforeDir="false" afterPath="$PROJECT_DIR$/../uppsala123/src/InledandeJavaProgrammeringKurs/A5/MovieDatabaseUI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uppsala123/src/A5/MovieSet.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../uppsala123/src/InledandeJavaProgrammeringKurs/A5/MovieSet.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uppsala123/src/Assignments/A3.java" beforeDir="false" afterPath="$PROJECT_DIR$/../uppsala123/src/InledandeJavaProgrammeringKurs/Assignments/A3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uppsala123/src/Assignments/Assignment2.java" beforeDir="false" afterPath="$PROJECT_DIR$/../uppsala123/src/InledandeJavaProgrammeringKurs/Assignments/Assignment2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uppsala123/src/Fak/AssignmentFive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uppsala123/src/Fak/FileDatabaseFive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uppsala123/src/Fak/LogicFive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uppsala123/src/Fak/MovieDatabaseUIFive.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uppsala123/src/Fak/MovieSet.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uppsala123/src/NewApple/App.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uppsala123/src/NewApple/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uppsala123/src/Uppgift4/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../uppsala123/src/InledandeJavaProgrammeringKurs/Uppgift4/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uppsala123/src/Uppgift4/Dictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/../uppsala123/src/InledandeJavaProgrammeringKurs/Uppgift4/Dictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uppsala123/src/Uppgift4/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../uppsala123/src/InledandeJavaProgrammeringKurs/Uppgift4/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uppsala123/src/Uppgift4/Spellchecker.java" beforeDir="false" afterPath="$PROJECT_DIR$/../uppsala123/src/InledandeJavaProgrammeringKurs/Uppgift4/Spellchecker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uppsala123/src/Uppgift5/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/../uppsala123/src/RunAppInPSVM/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../uppsala123/src/Uppgift5/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../uppsala123/src/RunAppInPSVM/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,12 +94,13 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../JavaFXTest" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager">
-    <configuration name="AlgoMultiplySmallSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algo.multiply.AlgoMultiplySmallSize" />
+  <component name="RunManager" selected="Application.AlgoMultiply">
+    <configuration name="AlgoMultiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.multiply.AlgoMultiply" />
       <module name="Algo" />
       <extension name="coverage">
         <pattern>
@@ -72,8 +112,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AlgoMultiply" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="algo.multiply.AlgoMultiply" />
+    <configuration name="AlgoMultiplySmallSize" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="algo.multiply.AlgoMultiplySmallSize" />
       <module name="Algo" />
       <extension name="coverage">
         <pattern>
@@ -111,8 +151,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="bucky" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Morfar.bucky" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Morfar.Test" />
       <module name="Algo" />
       <extension name="coverage">
         <pattern>
@@ -157,7 +197,12 @@
       <workItem from="1611905021186" duration="2000" />
       <workItem from="1611929710618" duration="1198000" />
       <workItem from="1612021221875" duration="1233000" />
-      <workItem from="1612040769933" duration="863000" />
+      <workItem from="1612040769933" duration="1728000" />
+      <workItem from="1612085805387" duration="105000" />
+      <workItem from="1612085923003" duration="3571000" />
+      <workItem from="1612268868036" duration="750000" />
+      <workItem from="1612269636140" duration="203000" />
+      <workItem from="1612269864672" duration="621000" />
     </task>
     <task id="LOCAL−00001" summary="AlgoMaterial Added">
       <created>1611065713168</created>
@@ -183,12 +228,25 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="AlgoMaterial Added" />
     <MESSAGE value="Andra algorithm klar" />
     <MESSAGE value="L1 klar" />
-    <option name="LAST_COMMIT_MESSAGE" value="L1 klar" />
+    <MESSAGE value="Some new commits:&#10;1. To do list in Multiplier.java deleted&#10;2. Morfar Package created with a few test/learning classes I've done from yt tutorials&#10;3. MyFirstWebsiteNot package with attempts to create a website - (Systemdevelopment course assignment)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some new commits:&#10;1. To do list in Multiplier.java deleted&#10;2. Morfar Package created with a few test/learning classes I've done from yt tutorials&#10;3. MyFirstWebsiteNot package with attempts to create a website - (Systemdevelopment course assignment)" />
   </component>
   <component name="WindowStateProjectService">
     <state x="395" y="139" key="#Inspections" timestamp="1611076708500">
@@ -199,42 +257,50 @@
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state x="524" y="162" key="#xdebugger.evaluate/0.0.1536.920@0.0.1536.920" timestamp="1611083678770" />
-    <state x="675" y="27" key="CommitChangelistDialog2" timestamp="1611086478613">
+    <state x="339" y="0" key="CommitChangelistDialog2" timestamp="1612085057057">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state x="675" y="27" key="CommitChangelistDialog2/0.0.1536.920@0.0.1536.920" timestamp="1611086478613" />
-    <state width="708" height="2" key="GridCell.Tab.0.bottom" timestamp="1611832559747">
+    <state x="339" y="0" key="CommitChangelistDialog2/0.0.1536.920@0.0.1536.920" timestamp="1612085057057" />
+    <state x="549" y="215" key="FileChooserDialogImpl" timestamp="1612269885582">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="708" height="2" key="GridCell.Tab.0.bottom/0.0.1536.920@0.0.1536.920" timestamp="1611832559747" />
-    <state width="708" height="2" key="GridCell.Tab.0.center" timestamp="1611832559747">
+    <state x="549" y="215" key="FileChooserDialogImpl/0.0.1536.920@0.0.1536.920" timestamp="1612269885582" />
+    <state width="724" height="306" key="GridCell.Tab.0.bottom" timestamp="1612176363220">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="708" height="2" key="GridCell.Tab.0.center/0.0.1536.920@0.0.1536.920" timestamp="1611832559747" />
-    <state width="708" height="2" key="GridCell.Tab.0.left" timestamp="1611832559747">
+    <state width="724" height="306" key="GridCell.Tab.0.bottom/0.0.1536.920@0.0.1536.920" timestamp="1612176363220" />
+    <state width="724" height="306" key="GridCell.Tab.0.center" timestamp="1612176363220">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="708" height="2" key="GridCell.Tab.0.left/0.0.1536.920@0.0.1536.920" timestamp="1611832559747" />
-    <state width="708" height="2" key="GridCell.Tab.0.right" timestamp="1611832559747">
+    <state width="724" height="306" key="GridCell.Tab.0.center/0.0.1536.920@0.0.1536.920" timestamp="1612176363220" />
+    <state width="724" height="306" key="GridCell.Tab.0.left" timestamp="1612176363220">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="708" height="2" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1611832559747" />
-    <state width="721" height="301" key="GridCell.Tab.1.bottom" timestamp="1611598809596">
+    <state width="724" height="306" key="GridCell.Tab.0.left/0.0.1536.920@0.0.1536.920" timestamp="1612176363220" />
+    <state width="724" height="306" key="GridCell.Tab.0.right" timestamp="1612176363220">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="721" height="301" key="GridCell.Tab.1.bottom/0.0.1536.920@0.0.1536.920" timestamp="1611598809596" />
-    <state width="721" height="301" key="GridCell.Tab.1.center" timestamp="1611598809596">
+    <state width="724" height="306" key="GridCell.Tab.0.right/0.0.1536.920@0.0.1536.920" timestamp="1612176363220" />
+    <state width="724" height="306" key="GridCell.Tab.1.bottom" timestamp="1612176363221">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="721" height="301" key="GridCell.Tab.1.center/0.0.1536.920@0.0.1536.920" timestamp="1611598809596" />
-    <state width="721" height="301" key="GridCell.Tab.1.left" timestamp="1611598809596">
+    <state width="724" height="306" key="GridCell.Tab.1.bottom/0.0.1536.920@0.0.1536.920" timestamp="1612176363221" />
+    <state width="724" height="306" key="GridCell.Tab.1.center" timestamp="1612176363220">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="721" height="301" key="GridCell.Tab.1.left/0.0.1536.920@0.0.1536.920" timestamp="1611598809596" />
-    <state width="721" height="301" key="GridCell.Tab.1.right" timestamp="1611598809596">
+    <state width="724" height="306" key="GridCell.Tab.1.center/0.0.1536.920@0.0.1536.920" timestamp="1612176363220" />
+    <state width="724" height="306" key="GridCell.Tab.1.left" timestamp="1612176363220">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
-    <state width="721" height="301" key="GridCell.Tab.1.right/0.0.1536.920@0.0.1536.920" timestamp="1611598809596" />
+    <state width="724" height="306" key="GridCell.Tab.1.left/0.0.1536.920@0.0.1536.920" timestamp="1612176363220" />
+    <state width="724" height="306" key="GridCell.Tab.1.right" timestamp="1612176363220">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state width="724" height="306" key="GridCell.Tab.1.right/0.0.1536.920@0.0.1536.920" timestamp="1612176363220" />
+    <state x="277" y="105" key="SettingsEditor" timestamp="1612269289224">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="277" y="105" key="SettingsEditor/0.0.1536.920@0.0.1536.920" timestamp="1612269289224" />
     <state x="518" y="122" width="814" height="524" key="Vcs.Push.Dialog.v2" timestamp="1611065726026">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
@@ -251,6 +317,10 @@
       <screen x="0" y="0" width="1536" height="920" />
     </state>
     <state x="862" y="58" width="580" height="804" key="find.popup/0.0.1536.920@0.0.1536.920" timestamp="1611065617434" />
+    <state x="366" y="54" width="1103" height="720" key="new project wizard" timestamp="1612269777864">
+      <screen x="0" y="0" width="1536" height="920" />
+    </state>
+    <state x="366" y="54" width="1103" height="720" key="new project wizard/0.0.1536.920@0.0.1536.920" timestamp="1612269777864" />
     <state x="431" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1611081289512">
       <screen x="0" y="0" width="1536" height="920" />
     </state>
@@ -333,6 +403,16 @@
           <url>file://$PROJECT_DIR$/src/Morfar/bucky.java</url>
           <line>9</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Morfar/Test.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Morfar/Test.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Morfar/Recursion.java</url>
